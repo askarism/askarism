@@ -52,9 +52,9 @@
 ---
 
 
- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=askarism&show_icons=true&hide_border=true&layout=compact" />
+ <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=askarism&show_icons=true&hide_border=true&layout=compact&theme=dark" />
 
- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=askarism&show_icons=true&hide_border=true" />
+ <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=askarism&show_icons=true&hide_border=true&theme=dark" />
 
 
 [website]: https://codeSTACKr.com
